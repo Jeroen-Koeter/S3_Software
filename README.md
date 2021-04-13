@@ -1,6 +1,6 @@
 # S3_Software
 Poc's:
-In this folder you'll find the POC's I made for this semester.
+In this folder you'll find the POC's I made for this semester, this also includes: Tour of heroes tutorial for Angular.
 
 Research:
 In this folder you'll find the research I did for the semester, you'll also find the architecture- and UI design in this folder.
